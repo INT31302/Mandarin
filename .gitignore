@@ -1,0 +1,9 @@
+.DS_Store
+.build/
+DerivedData/
+Build/
+dist/
+xcuserdata/
+*.xcuserstate
+GoogleOAuthConfig.xcconfig
+GoogleOAuthCredentials.json
